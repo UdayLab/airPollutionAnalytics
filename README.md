@@ -18,9 +18,13 @@ __Coding tips:__
 2. Do the proper documentation of your Python Programs.
 3. Distribute among yourselves properly, and mention the tasks that each student will carry out.
 
-    |student name | task|
+    |Task| binderLink|
     |-------------|-----|
     
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=Data_Preprocessing.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=Hashmap.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=Heatmap.ipynb)
+
+### Tasks (18-July-2023 USA Time): 
+
+_Students mention the four tasks assigned by me today_
