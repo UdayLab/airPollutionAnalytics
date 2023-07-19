@@ -1,7 +1,5 @@
 #!/usr/bin/python
 import csv
-import re
-import matplotlib.pyplot as plt
 import psycopg2
 from config import config
 
