@@ -21,10 +21,13 @@ __Coding tips:__
     |Task| binderLink|
     |-------------|-----|
     
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=Data_Preprocessing.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=Hashmap.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=Heatmap.ipynb)
+
 
 ### Tasks (18-July-2023 USA Time): 
 
 _Students mention the four tasks assigned by me today_
+
+1. Check sensor values; delete columns with values less than a user-specified value.
+2. Impute missing values using linear regression or neural network (deep learning).
+3. Build ML models for each sensor to predict future learning.
+4. Mine and visualize longest patterns using FP Growth and Plotly Express.
