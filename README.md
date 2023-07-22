@@ -18,9 +18,9 @@ __Coding tips:__
 2. Do the proper documentation of your Python Programs.
 3. Distribute among yourselves properly, and mention the tasks that each student will carry out.
 
-    |Task| binderLink|
-    |-------------|-----|
-    
+    |Task                  | binderLink|
+    |----------------------|-----|
+       Linear Regression      [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FLinear.ipynb)
 
 
 ### Tasks (18-July-2023 USA Time): 
