@@ -33,4 +33,6 @@ _Students mention the four tasks assigned by me today_
 1. Check sensor values; delete columns with values less than a user-specified value.
 2. Impute missing values using linear regression or neural network (deep learning).
 3. Build ML models for each sensor to predict future learning.
+   ( Sir, could you please advise us on which ML model we should use? )
+   
 4. Mine and visualize longest patterns using FP Growth and Plotly Express.
