@@ -21,6 +21,8 @@ __Coding tips:__
     |Task                  | binderLink|
     |----------------------|-----|
        Linear Regression      [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FLinear.ipynb)
+   Removing columns
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FRemove_column.ipynb)
 
 
 ### Tasks (18-July-2023 USA Time): 
