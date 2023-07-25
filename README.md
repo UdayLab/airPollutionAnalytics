@@ -23,7 +23,7 @@ __Coding tips:__
     Linear Regression | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FLinear.ipynb)
    Removing columns | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FRemove_column.ipynb)
    Conversion_Transcational_database | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FConversion.ipynb)
-FP_Growth | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FFP_Growth.ipynb)
+   FP_Growth | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FFP_Growth.ipynb)
 
 ### Tasks (18-July-2023 USA Time): 
 
@@ -31,7 +31,5 @@ _Students mention the four tasks assigned by me today_
 
 1. Check sensor values; delete columns with values less than a user-specified value.
 2. Impute missing values using linear regression or neural network (deep learning).
-3. Build ML models for each sensor to predict future learning.
-   ( Sir, could you please advise us on which ML model we should use? )
-   
+3. Build ML models for each sensor to predict future learning.  
 4. Mine and visualize longest patterns using FP Growth and Plotly Express.
