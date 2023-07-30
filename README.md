@@ -20,7 +20,7 @@ __Coding tips:__
 
     |Task                  | binderLink|
     |----------------------|-----|
-    
+       Heatmap   |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=airPollutionAnalytics%2FpreProcessing%20%2FPlotly.ipynb)
 
 ### Tasks (18-July-2023 USA Time): 
 
