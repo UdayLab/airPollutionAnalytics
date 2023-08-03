@@ -74,7 +74,7 @@ class DataProcessor:
         Deletes columns with 'Unnamed' in their names from the given DataFrame.
         
         Parameters:
-        df (pandas.DataFrame): The DataFrame from which columns with 'Unnamed' in their names             will be deleted. 
+        df (pandas.DataFrame): The DataFrame from which columns with 'Unnamed' in their names will be deleted. 
         Returns:
         pandas.DataFrame: The DataFrame with 'Unnamed' columns removed.
         """
