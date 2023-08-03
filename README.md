@@ -20,7 +20,8 @@ __Coding tips:__
 
     |Task                  | binderLink|
     |----------------------|-----|
-      Heatmap             |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=preProcessing%2FPlotly.ipynb)
+      Heatmap  >15           |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=preProcessing%2FPlotly.ipynb)
+      Frequency_heatmap >35  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UdayLab/airPollutionAnalytics/main?labpath=notebooks%2FFrequency_Heatmap.ipynb)
 _Students mention the four tasks assigned by me today_
 
 1. Check sensor values; delete columns with values less than a user-specified value.
